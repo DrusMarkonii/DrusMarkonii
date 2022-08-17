@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DrusMarkonii
-- 👀 I’m interested in front-end development💻, cars🚗, construction🔨
+- 👀 I’m interested in frontend development💻, cars🚗, construction🔨
 - 🌱  I’m learning React JS Typescprit
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me: 
